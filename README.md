@@ -37,6 +37,7 @@ Note: The above command starts the fetchAPI service inside a docker container an
       The base url to access the application will be - 
       
       base url - `http://localhost:5000`
+Note: On linux you migh have to use sudo before the commands.
 
 The application is now accessable on the base URL
 
