@@ -51,7 +51,8 @@ The application is now accessable on the base URL
     `docker image rm fetchapp -f`
 
 --------------------------------------------------------------------------------------------------------------------------
-# Specifications
+# Apendix
+This part provides the explanation and defination of the api.
 # Receipt Processor
 
 Build a webservice that fulfils the documented API. The API is described below. A formal definition is provided 
